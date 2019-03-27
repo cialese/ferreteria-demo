@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav li {
+    padding-right: 50px;
+}
+.navbar {
+    padding: .8rem;
+}
+
+.list li a {
+    text-transform: uppercase;
+    color: #ffffff;
+}
