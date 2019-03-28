@@ -13,3 +13,10 @@
     text-transform: uppercase;
     color: #ffffff;
 }
+.logo {
+    height: 4rem;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
