@@ -1,0 +1,3 @@
+const initMap = () => {
+    const loc = {}
+}

@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    color: #222;
+}
 .navbar-nav li {
     padding-right: 50px;
 }
@@ -57,4 +61,11 @@ hr {
     margin-left: 1%;
     background-color: gold;
   }
+
+  .bg-color {
+    background-color: rgb(244, 247, 248)
+}
+.hr {
+    width: 120px;
+}
  
